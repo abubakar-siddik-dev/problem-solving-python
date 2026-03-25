@@ -25,3 +25,24 @@ This repository contains beginner-friendly problem solving programs using Python
 
 `bash
 python filename.py
+
+# Problem Solving in Python
+
+A collection of beginner-friendly Python problems.
+
+## Topics
+- Arrays
+- Strings
+- Loops
+
+## Problems
+- Sorting
+- Reverse Array
+- Find Max
+- Palindrome
+- Prime Number
+- Factorial
+- Count Vowels
+
+## Run
+python3 filename.py
