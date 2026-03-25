@@ -1,0 +1,18 @@
+problem-solving-python/
+│
+├── arrays/
+│   ├── sorting.py
+│   ├── find_max.py
+│   └── reverse_array.py
+│
+├── strings/
+│   ├── palindrome.py
+│   ├── count_vowels.py
+│   └── reverse_string.py
+│
+├── loops/
+│   ├── prime_number.py
+│   ├── factorial.py
+│   └── multiplication_table.py
+│
+└── README.md
