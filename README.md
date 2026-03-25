@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Status](https://img.shields.io/badge/status-active-success)
+
+
 # 🧠 Problem Solving with Python
 
 A collection of beginner to intermediate level problem-solving programs using Python.
@@ -39,4 +43,3 @@ problem-solving-python/ │ ├── arrays/ ├── strings/ ├── loops
 git clone https://github.com/abubakar-siddik-dev/problem-solving-python.git
 cd problem-solving-python
 python3 arrays/sorting.py
-
