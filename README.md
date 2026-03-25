@@ -46,3 +46,6 @@ A collection of beginner-friendly Python problems.
 
 ## Run
 python3 filename.py
+
+## License
+This project is licensed under the MIT License.
